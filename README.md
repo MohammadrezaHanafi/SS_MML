@@ -5,7 +5,6 @@ ShowPenalty views their car violations and uses the PaymentPenalty function and 
 Pay yourself. After paying each bill, that bill must be deleted. The following information should be displayed in the display of fine bills
 to be:
 
-
 -Num 
 -Date
 -Time
@@ -13,8 +12,6 @@ to be:
 
 The license plate format is as follows:
 
-
 12-A-358
-
 
 The first two characters and the last three characters are numerical characters and the middle character contains letters.
